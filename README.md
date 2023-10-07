@@ -5,7 +5,7 @@
 
 ## General Information
 Life is already hard on its own and figuring out what to eat every single day makes it even harded. This app was developed with the people
-that struggle with meal ideas in mind (me included). Just provide the app with the ingredients you haave in your fridge and the magic will happen ✨
+that struggle with meal ideas in mind (me included). Just provide the app with the ingredients you have in your fridge and the magic will happen ✨
 
 
 ## Technologies Used
